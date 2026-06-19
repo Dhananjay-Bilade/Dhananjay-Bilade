@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | specialization in Data Science and Analytics | Fresher
+Full Stack Developer | Expertise in Software Development, Database Management and Data Analytics | Fresher
 
 
 ## 🌐 Socials:
